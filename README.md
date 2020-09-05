@@ -6,10 +6,10 @@
 -->
 - 🔭 I’m Elliot & am currently working on [InstaTodos](https://www.instatodos.com) - an open source productivity app to enhance the productivity & oragnize the daily activities/tasks in a more refined way.
 
-- [InstaTodos](https://www.instatodos.com) is free to use. Why to pay subscription fee for organizing your daily activities/tasks?
+- [InstaTodos](https://www.instatodos.com) is completely free to use.
 
-- It's a long journey ahead & [InstaTodos](https://www.instatodos.com) is in early phase & will going to release the BETA phase soon.
+- [InstaTodos](https://www.instatodos.com) is in early phase & will going to release the BETA phase soon.
 
-- 🌱 Feedback/Suggestions will be highly appreciated. Please feel free to open an issue or point put some feature, you want to see as a part of [InstaTodos](https://www.instatodos.com)
+- 🌱 Feedback/Suggestions will be highly appreciated. Please feel to open an [Github issue](https://github.com/techyaura/instatodos.com/issues/newissue) for pointing out bugs, recommending enhancement OR requesting for some new feature which you want to see as a part of [InstaTodos](https://www.instatodos.com)
 
-- 📫 How to reach me: [techyaura@gmail.com](mailto:example@mail.com)
+- 📫 How to reach: [techyaura@gmail.com](mailto:example@mail.com)
