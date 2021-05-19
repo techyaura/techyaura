@@ -1,15 +1,18 @@
-### Hi there ! 👋
-### Hi there ! 👋
+<h1 align="center">Hello there 👋, It's Elliot</h1>
 
-<!--
-**techyaura/techyaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🔭 I’m Elliot & am currently working on [InstaTodos](https://www.instatodos.com) - an open source productivity app to enhance the productivity & oragnize the daily activities/tasks in a more refined way.
+<ul>
+  <li>👨🏻‍💻 Developer with more then 8 years experience</li>
+  <li>🌱 I’m currently working on something amazing</li>
+  <li>💡 I love trying new ideas, experimenting and evaluate them quickly</li>
+  <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
+</ul>
 
-- [InstaTodos](https://www.instatodos.com) is completely free to use.
+<br/>
+<hr />
+<br/>
 
-- [InstaTodos](https://www.instatodos.com) is in early phase & will going to release the BETA phase soon.
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=techyaura&row=2&column=4)
 
-- 🌱 Feedback/Suggestions will be highly appreciated. Please feel to open an [Github issue](https://github.com/techyaura/instatodos.com/issues/newissue) for pointing out bugs, recommending enhancement OR requesting for some new feature which you want to see as a part of [InstaTodos](https://www.instatodos.com)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=techyaura&show_icons=true)
 
-- 📫 How to reach: [techyaura@gmail.com](mailto:example@mail.com)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=techyaura)
