@@ -6,10 +6,14 @@
   <li>💡 I love trying new ideas, experimenting and evaluate them quickly</li>
   <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
 </ul>
-
 <br/>
 <hr />
-<br/>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+</p>
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=techyaura&row=2&column=4)
 
@@ -17,6 +21,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=techyaura)
 
+<hr />
 	
 ### 🛠 &nbsp;Languages and Tools
 
@@ -34,3 +39,12 @@
 <br>
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
+<hr />
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/techyaura"><img src="https://img.shields.io/badge/-techyaura-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:techyaura@gmail.com"><img src="https://img.shields.io/badge/-techyaura@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
