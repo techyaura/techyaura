@@ -4,7 +4,7 @@
   <li>👨🏻‍💻 Developer with more then 8 years experience</li>
   <li>🌱 I’m currently working on something amazing</li>
   <li>💡 I love trying new ideas, experimenting and evaluate them quickly</li>
-  <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
+  <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
 </ul>
 <br/>
 <hr />
