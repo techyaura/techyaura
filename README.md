@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , It's Abhay [Mr Robot ]</h1>
 
 <ul>
-  <li>👨🏻‍💻 Developer with more then 8 years experience</li>
+  <li>👨🏻‍💻 Developer with more then 9 years experience</li>
   <li>🌱 I’m currently working on something amazing</li>
   <li>💡 I love trying new ideas, experimenting and evaluate them quickly</li>
-  <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
+  <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
 </ul>
 <br/>
 <hr />
